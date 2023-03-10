@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "642746084997",
+    "firebase_url": "https://voyagefragment-default-rtdb.firebaseio.com",
+    "project_id": "voyagefragment",
+    "storage_bucket": "voyagefragment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642746084997:android:38176be5fbaf1aa22343ec",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642746084997-oetbb4a66qj3gpctio4jnn054coecgv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3dNWhOYW5ifTW1mArRgUOivcdGfXHP5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642746084997-oetbb4a66qj3gpctio4jnn054coecgv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642746084997:android:55e07bd11c0b75332343ec",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642746084997-oetbb4a66qj3gpctio4jnn054coecgv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3dNWhOYW5ifTW1mArRgUOivcdGfXHP5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642746084997-oetbb4a66qj3gpctio4jnn054coecgv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
